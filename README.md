@@ -1,2 +1,1 @@
-# deep-quantile
-Quantile forecasting with multi-task learning model.
+# Quantile forecasting with multi-task learning
